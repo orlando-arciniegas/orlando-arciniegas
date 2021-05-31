@@ -1,5 +1,8 @@
 Hi 👋 Welcome to my repository! ⚡
 
+Tech Lover❤
+
+Expert in google search😆
 <!--
 **orlando-arciniegas/orlando-arciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
